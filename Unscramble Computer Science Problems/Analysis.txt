@@ -1,0 +1,27 @@
+Worst Case Big-O Notation
+
+=============================================================================================
+Task0:
+Since this task involves picking up the first text record and last call record.
+>> O(1)
+=============================================================================================
+Task1:
+When the list range is huge in range, there might evidence of worst case scenario
+>> O(n2)
+
+=============================================================================================
+Task2:
+When there are multiple numbers that have spent exact same duration on call.
+It will be worst case as to which records needs to picked up for the max duration
+>> O(n)
+=============================================================================================
+Task3:
+Since it will take linear time to fetch the data from lists and then we have performed sorting which will take O(nlogn).
+>> Total runtime complexity is O(nlogn).
+
+=============================================================================================
+Task4:
+
+Since it will take linear time to fetch the data from lists and then we have performed sorting which will take O(nlogn).
+>> Total runtime complexity is O(nlogn).
+© 2020 GitHub, Inc.
